@@ -1,0 +1,44 @@
+.bri{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.noo{
+    margin-left: 500px;
+    margin-top: -335px;
+}
+.tha{
+    margin-left: 900px;
+    margin-top: -335px;
+}
+.veg{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+.mush{
+    margin-left: 500px;
+    margin-top: -335px;
+}
+.vn{
+    margin-left: 900px;
+    margin-top: -335px;
+}
+.des{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.ice{
+    margin-left: 900px;
+    margin-top: -335px;
+}
+.soups{
+    margin-left: 500px;
+    margin-top: -335px;
+}
+button:hover{
+    background-color: red;
+}
+body{
+    background-color: yellowgreen;
+}
+}
